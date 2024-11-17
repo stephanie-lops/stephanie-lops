@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @stephanie-lops
-- ⚡ I’m looking to collaborate on criative web development projects
+- 👋 Hi, I’m Stephanie Lopes
+- ⚡ I’m looking to collaborate on creative web development projects
 - 🌱 Electronic Engineer with post-graduation in Full Stack Development
 - ✨ Languages: English, Portuguese, Japanese 
 - 📫 How to reach me: stephanielopees@gmail.com
