@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @stephanie-lops
 - ⚡ I’m looking to collaborate on criative web development projects
-- 🌱 I’m currently learning full stack development
+- 🌱 Electronic Engineer with post-graduation in Full Stack Development
 - ✨ Languages: English, Portuguese, Japanese 
 - 📫 How to reach me: stephanielopees@gmail.com
 - 😄 Pronouns: She/Her
