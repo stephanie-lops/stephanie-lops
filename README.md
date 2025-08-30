@@ -3,6 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:61DAFB&height=200&section=header&text=Stephanie%20Lopes%20👩‍💻&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 </p>
 ---
+
 # 👋 Hi, I’m Stephanie Lopes  
 
 🎓 **Software Engineer** | 💻 **Full Stack Engineer**  
