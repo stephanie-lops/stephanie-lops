@@ -7,7 +7,7 @@
 
 # 👋 Hi, I’m Stephanie Lopes  
 
-💻 **Front-End Developer | Full Stack Enthusiast**  
+💻 **Full Stack Engineer | Front-end Lover**  
 ⚡ Transforming ideas into **beautiful and responsive web experiences**.  
 
 ---
@@ -52,16 +52,17 @@
 
 ## 🌟 Featured Projects
 <p align="center">
-  <a href="https://github.com/stephanie-lops/stephanie_portfolio_Interface" target="blank">
-    <img src="https://img.shields.io/badge/PhotographyPortfolio-React/Flask?style=for-the-badge&logo=vercel&logoColor=ffffff&labelColor=61C3FF"/>
+  <a href="https://github.com/stephanie-lops/stephanie_portfolio_Interface" target="_blank">
+    <img src="https://img.shields.io/badge/📸 PhotographyPortfolio-React/Flask?style=for-the-badge&logo=vercel&logoColor=ffffff&labelColor=61C3FF"/>
   </a>
-    <a href="https://github.com/stephanie-lops/trilha-css-desafio-03-discord-responsivo" target="blank">
-    <img src="https://img.shields.io/badge/DiscordResponsivo-Fullstack?style=for-the-badge&logo=react&logoColor=ffffff&labelColor=FF6F61"/>
+  <a href="https://github.com/stephanie-lops/trilha-css-desafio-03-discord-responsivo" target="_blank">
+    <img src="https://img.shields.io/badge/🤳 DiscordResponsivo-Fullstack?style=for-the-badge&logo=react&logoColor=ffffff&labelColor=FF6F61"/>
   </a>
-  <a href="https://github.com/stephanie-lops/trilha-css-desafio-02-youtube-page" target="blank">
-    <img src="https://img.shields.io/badge/Youtube-Page?style=for-the-badge&logo=python&logoColor=ffffff&labelColor=306998"/>
+  <a href="https://github.com/stephanie-lops/trilha-css-desafio-02-youtube-page" target="_blank">
+    <img src="https://img.shields.io/badge/▶️ Youtube-Page?style=for-the-badge&logo=python&logoColor=ffffff&labelColor=306998"/>
   </a>
 </p>
+
 
 
 ---
