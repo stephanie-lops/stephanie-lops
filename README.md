@@ -52,14 +52,14 @@
 
 ## 🌟 Featured Projects
 <p align="center">
-  <a href="https://github.com/stephanie-lops/PhotographyPortfolio" target="_blank">
+  <a href="https://github.com/stephanie-lops/stephanie_portfolio_Interface" target="_blank">
     <img src="https://img.shields.io/badge/PhotographyPortfolio-React/Flask?style=for-the-badge&logo=vercel&logoColor=ffffff&labelColor=61C3FF"/>
   </a>
-    <a href="[https://github.com/stephanie-lops/HoneyStore](https://github.com/stephanie-lops/trilha-css-desafio-03-discord-responsivo)" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-Responsivo-Fullstack?style=for-the-badge&logo=react&logoColor=ffffff&labelColor=FF6F61"/>
+    <a href="https://github.com/stephanie-lops/trilha-css-desafio-03-discord-responsivo" target="_blank">
+    <img src="https://img.shields.io/badge/DiscordResponsivo-Fullstack?style=for-the-badge&logo=react&logoColor=ffffff&labelColor=FF6F61"/>
   </a>
-  <a href="[https://github.com/stephanie-lops/VidsAgency](https://github.com/stephanie-lops/trilha-css-desafio-02-youtube-page)" target="_blank">
-    <img src="https://img.shields.io/badge/Youtube-Page?style=for-the-badge&logo=python&logoColor=ffffff&labelColor=306998"/>
+  <a href="https://github.com/stephanie-lops/trilha-css-desafio-02-youtube-page" target="_blank">
+    <img src="https://img.shields.io/badge/YoutubePage?style=for-the-badge&logo=python&logoColor=ffffff&labelColor=306998"/>
   </a>
 </p>
 
