@@ -35,6 +35,7 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 </p>
 
 ### 🛠️ Tools & Others
@@ -50,12 +51,16 @@
 
 ## 📊 GitHub Stats  
 <p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=stephanie-lops&show_icons=true&theme=tokyonight&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stephanie-lops&layout=compact&langs_count=8&theme=tokyonight"/>
+  <!-- Commits -->
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=stephanie-lops&show_icons=true&theme=radical&count_private=true&include_all_commits=true"/>
+  
+  <!-- Top Languages -->
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stephanie-lops&layout=compact&langs_count=8&theme=radical"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=stephanie-lops&theme=tokyonight" alt="GitHub Streak"/>
+  <!-- GitHub Streak -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=stephanie-lops&theme=radical" alt="GitHub Streak"/>
 </p>
 
 ---
@@ -81,9 +86,6 @@
 </p>
 
 ✨ Always eager to collaborate on projects that combine **technology, creativity, and global connections**.
-
-
-
 
 <!---
 - 👋 Hi, I’m Stephanie Lopes
