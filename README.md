@@ -1,22 +1,24 @@
-<!-- Banner -->
+<!-- Top Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:61DAFB&height=200&section=header&text=Stephanie%20Lopes%20👩‍💻&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:61DAFB&height=220&section=header&text=Stephanie%20Lopes%20👩‍💻&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=40"/>
 </p>
 
 ---
 
 # 👋 Hi, I’m Stephanie Lopes  
 
-🎓 **Software Engineer** | 💻 **Full Stack Engineer**  
-⚡ Passionate about building **creative web projects** that blend **technology and design**.  
+💻 **Front-End Developer | Full Stack Enthusiast**  
+⚡ Transforming ideas into **beautiful and responsive web experiences**.  
 
 ---
 
 ## ✨ About Me  
-- 🌍 Based in **Brazil** | Open to **remote opportunities**  
-- 🗣️ Languages: **English (C2)** · **Portuguese (Native)** · **Japanese (N5)**  
-- 💡 Interests: **Web Development, Photography, Travel, Visual Design**  
-- 😄 Pronouns: **She/Her**  
+<p align="center">
+🌍 Brazil | Open to remote opportunities  
+🗣️ English (C2) · Portuguese (Native) · Japanese (N5)  
+💡 Interests: Web Development, Photography, Travel, Visual Design  
+😄 Pronouns: She/Her
+</p>
 
 ---
 
@@ -48,6 +50,15 @@
 
 ---
 
+## 🌟 Featured Projects
+<p align="center">
+  <a href="#"><img src="https://img.shields.io/badge/HoneyStore-Fullstack?style=for-the-badge&logo=react&logoColor=ffffff&labelColor=FF6F61"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/PhotographyPortfolio-React/Flask?style=for-the-badge&logo=vercel&logoColor=ffffff&labelColor=61C3FF"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/VidsAgency-Backend?style=for-the-badge&logo=python&logoColor=ffffff&labelColor=306998"/></a>
+</p>
+
+---
+
 ## 📊 GitHub Stats  
 <p align="center">
   <a href="#"><img height="160em" src="https://github-readme-stats.vercel.app/api?username=stephanie-lops&show_icons=true&theme=radical&count_private=true&include_all_commits=true"/></a>
@@ -74,11 +85,10 @@
 
 <!-- Footer Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:61DAFB,100:0A66C2&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:61DAFB,100:0A66C2&height=140&section=footer"/>
 </p>
 
 ✨ Always eager to collaborate on projects that combine **technology, creativity, and global connections**.
-
 
 
 <!---
