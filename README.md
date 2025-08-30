@@ -59,7 +59,7 @@
     <img src="https://img.shields.io/badge/DiscordResponsivo-Fullstack?style=for-the-badge&logo=react&logoColor=ffffff&labelColor=FF6F61"/>
   </a>
   <a href="https://github.com/stephanie-lops/trilha-css-desafio-02-youtube-page" target="blank">
-    <img src="https://img.shields.io/badge/YoutubePage?style=for-the-badge&logo=python&logoColor=ffffff&labelColor=306998"/>
+    <img src="https://img.shields.io/badge/Youtube-Page?style=for-the-badge&logo=python&logoColor=ffffff&labelColor=306998"/>
   </a>
 </p>
 
