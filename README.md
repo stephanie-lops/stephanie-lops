@@ -85,8 +85,7 @@
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=ffffff&labelColor=D14836"/></a>
   <a href="https://www.linkedin.com/in/stephanie-lops">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=ffffff&labelColor=0A66C2"/></a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Portfolio-FF4088?style=for-the-badge&logo=vercel&logoColor=ffffff&labelColor=FF4088"/></a>
+
 </p>
 
 ---
@@ -100,6 +99,9 @@
 
 
 <!---
+
+  <a href="#">
+    <img src="https://img.shields.io/badge/Portfolio-FF4088?style=for-the-badge&logo=vercel&logoColor=ffffff&labelColor=FF4088"/></a>
 
 - 👋 Hi, I’m Stephanie Lopes
 - 🎓 Software Engineer
