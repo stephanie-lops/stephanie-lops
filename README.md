@@ -35,10 +35,22 @@
 
 ---
 
+## 📊 GitHub Stats  
+
+<p align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=stephanie-lops&show_icons=true&theme=tokyonight&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stephanie-lops&layout=compact&langs_count=8&theme=tokyonight"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=stephanie-lops&theme=tokyonight" alt="GitHub Streak"/>
+</p>
+
+---
+
 ## 📫 Get in Touch  
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:stephanielopees@gmail.com)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/stephanie-lops)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF4088?style=for-the-badge&logo=vercel&logoColor=white)](#)  
 
 ---
 
@@ -56,5 +68,7 @@
 stephanie-lops/stephanie-lops is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 - ⚡ Fun fact: I'm also a photographer
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF4088?style=for-the-badge&logo=vercel&logoColor=white)](#)  
 💞️ 
 --->
