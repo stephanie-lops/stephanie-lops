@@ -7,7 +7,7 @@
 
 # 👋 Hi, I’m Stephanie Lopes  
 
-💻 ** Full Stack Engineer | Front-End Lover**  
+💻 ** Full Stack Engineer | Front-End Lover **  
 ⚡ Transforming ideas into **beautiful and responsive web experiences**.  
 
 ---
@@ -37,6 +37,7 @@
   <a href="#"><img src="https://img.shields.io/badge/Python-306998?style=for-the-badge&logo=python&logoColor=ffffff&labelColor=4B8BBE"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=ffffff&labelColor=333333"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=ffffff&labelColor=092E20"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000&labelColor=F7DF1E"/></a>
 </p>
 
 ### 🛠️ Tools & Others
@@ -46,15 +47,6 @@
   <a href="#"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=ffffff&labelColor=2496ED"/></a>
   <a href="#"><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=ffffff&labelColor=4479A1"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Agile-0288D1?style=for-the-badge&logo=atlassian&logoColor=ffffff&labelColor=0288D1"/></a>
-</p>
-
----
-
-## 🌟 Featured Projects
-<p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/HoneyStore-Fullstack?style=for-the-badge&logo=react&logoColor=ffffff&labelColor=FF6F61"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/PhotographyPortfolio-React/Flask?style=for-the-badge&logo=vercel&logoColor=ffffff&labelColor=61C3FF"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/VidsAgency-Backend?style=for-the-badge&logo=python&logoColor=ffffff&labelColor=306998"/></a>
 </p>
 
 ---
@@ -92,6 +84,15 @@
 
 
 <!---
+
+---
+
+## 🌟 Featured Projects
+<p align="center">
+  <a href="#"><img src="https://img.shields.io/badge/HoneyStore-Fullstack?style=for-the-badge&logo=react&logoColor=ffffff&labelColor=FF6F61"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/PhotographyPortfolio-React/Flask?style=for-the-badge&logo=vercel&logoColor=ffffff&labelColor=61C3FF"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/VidsAgency-Backend?style=for-the-badge&logo=python&logoColor=ffffff&labelColor=306998"/></a>
+</p>
 - 👋 Hi, I’m Stephanie Lopes
 - 🎓 Software Engineer
 - ⚡ Creative web development projects
