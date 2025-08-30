@@ -1,3 +1,10 @@
+<!-- Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:61DAFB&height=200&section=header&text=Stephanie%20Lopes%20👩‍💻&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+</p>
+
+---
+
 # 👋 Hi, I’m Stephanie Lopes  
 
 🎓 **Software Engineer** | 💻 **Front-End & Full Stack Enthusiast**  
@@ -49,12 +56,28 @@
 ---
 
 ## 📫 Get in Touch  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:stephanielopees@gmail.com)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/stephanie-lops)  
+
+<p align="center">
+  <a href="mailto:stephanielopees@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/stephanie-lops">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Portfolio-FF4088?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
+<!-- Footer Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:61DAFB,100:0A66C2&height=120&section=footer"/>
+</p>
+
 ✨ Always eager to collaborate on projects that combine **technology, creativity, and global connections**.  
+
 
 
 <!---
