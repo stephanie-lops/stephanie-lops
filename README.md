@@ -10,17 +10,13 @@
 💻 **Front-End Developer | Full Stack Enthusiast**  
 ⚡ Transforming ideas into **beautiful and responsive web experiences**.  
 
-<p align="center">
-  <img src="https://media.giphy.com/media/26u4cqiYI30juCOGY/giphy.gif" height="60"/>
-</p>
-
 ---
 
-## ✨ About Me <img src="https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif" height="25"/>
+## ✨ About Me  
 <p align="center">
-🌍 Brazil | Remote-friendly <br>
-🗣️ English (C2) · Portuguese (Native) · Japanese (N5) <br>
-💡 Interests: Web Development, Photography, Travel, Visual Design <br>
+🌍 Brazil | Open to remote opportunities  
+🗣️ English (C2) · Portuguese (Native) · Japanese (N5)  
+💡 Interests: Web Development, Photography, Travel, Visual Design  
 😄 Pronouns: She/Her
 </p>
 
@@ -30,35 +26,35 @@
 
 ### 🖥️ Frontend
 <p align="center">
-  <a href="#"><img src="https://camo.githubusercontent.com/3e1b1c3f6c0a0b3fa3e1c0b8f093f36c1b49f8ed5a47c6d2a6233f3b7f6d16f6/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f484d4c352d454634353733332f666f722d7468652d62616467652f736869656c6465642e737667" height="35"/></a>
-  <a href="#"><img src="https://media.giphy.com/media/26tOZ42Mg6pbTUPHW/giphy.gif" height="35"/></a>
-  <a href="#"><img src="https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif" height="35"/></a>
-  <a href="#"><img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" height="35"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/HTML5-FF5733?style=for-the-badge&logo=html5&logoColor=ffffff&labelColor=FF5733"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/CSS3-33C3FF?style=for-the-badge&logo=css3&logoColor=ffffff&labelColor=33C3FF"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000&labelColor=F7DF1E"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=20232A&labelColor=61DAFB"/></a>
 </p>
 
 ### ⚙️ Backend
 <p align="center">
-  <a href="#"><img src="https://media.giphy.com/media/3o6Mbbs879ozZ9Yic0/giphy.gif" height="35"/></a>
-  <a href="#"><img src="https://media.giphy.com/media/3ohhwytHcusSCXXOUg/giphy.gif" height="35"/></a>
-  <a href="#"><img src="https://media.giphy.com/media/3o7TKU8RvQuomFfUUU/giphy.gif" height="35"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Python-306998?style=for-the-badge&logo=python&logoColor=ffffff&labelColor=4B8BBE"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=ffffff&labelColor=333333"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=ffffff&labelColor=092E20"/></a>
 </p>
 
 ### 🛠️ Tools & Others
 <p align="center">
-  <a href="#"><img src="https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif" height="35"/></a>
-  <a href="#"><img src="https://media.giphy.com/media/xTiTnqUxyWbsAXq7Ju/giphy.gif" height="35"/></a>
-  <a href="#"><img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" height="35"/></a>
-  <a href="#"><img src="https://media.giphy.com/media/3o6Zt0H7l3z5TBS3Rm/giphy.gif" height="35"/></a>
-  <a href="#"><img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" height="35"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=ffffff&labelColor=F05032"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=333333"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=ffffff&labelColor=2496ED"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=ffffff&labelColor=4479A1"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Agile-0288D1?style=for-the-badge&logo=atlassian&logoColor=ffffff&labelColor=0288D1"/></a>
 </p>
 
 ---
 
 ## 🌟 Featured Projects
 <p align="center">
-  <a href="#"><img src="https://media.giphy.com/media/l0HlNQ03J5JxX6lva/giphy.gif" height="35"/> HoneyStore (Fullstack)</a>
-  <a href="#"><img src="https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif" height="35"/> Photography Portfolio (React/Flask)</a>
-  <a href="#"><img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" height="35"/> VidsAgency (Backend)</a>
+  <a href="#"><img src="https://img.shields.io/badge/HoneyStore-Fullstack?style=for-the-badge&logo=react&logoColor=ffffff&labelColor=FF6F61"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/PhotographyPortfolio-React/Flask?style=for-the-badge&logo=vercel&logoColor=ffffff&labelColor=61C3FF"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/VidsAgency-Backend?style=for-the-badge&logo=python&logoColor=ffffff&labelColor=306998"/></a>
 </p>
 
 ---
@@ -78,11 +74,11 @@
 ## 📫 Get in Touch  
 <p align="center">
   <a href="mailto:stephanielopees@gmail.com">
-    <img src="https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif" height="35"/></a>
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=ffffff&labelColor=D14836"/></a>
   <a href="https://www.linkedin.com/in/stephanie-lops">
-    <img src="https://media.giphy.com/media/l0HlNQ03J5JxX6lva/giphy.gif" height="35"/></a>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=ffffff&labelColor=0A66C2"/></a>
   <a href="#">
-    <img src="https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif" height="35"/></a>
+    <img src="https://img.shields.io/badge/Portfolio-FF4088?style=for-the-badge&logo=vercel&logoColor=ffffff&labelColor=FF4088"/></a>
 </p>
 
 ---
@@ -93,6 +89,7 @@
 </p>
 
 ✨ Always eager to collaborate on projects that combine **technology, creativity, and global connections**.
+
 
 <!---
 
