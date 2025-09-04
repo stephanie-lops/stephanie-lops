@@ -1,13 +1,13 @@
 <!-- Top Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:61DAFB&height=220&section=header&text=Stephanie%20Lopes%20👩‍💻&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=40"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:61DAFB&height=220&section=header&text=Stephanie%20Lopes%20👩🏻‍💻&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=40"/>
 </p>
 
 ---
 
-# 👋 Hi, I’m Stephanie Lopes  
+# Hi, I’m Stephanie Lopes  
 
-💻 **Full Stack Engineer | Front-end Lover**  
+💻 ** Full Stack Engineer | Front-end Lover **  
 ⚡ Transforming ideas into **beautiful and responsive web experiences**.  
 
 ---
