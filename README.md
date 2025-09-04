@@ -7,7 +7,7 @@
 
 # Hi, I’m Stephanie Lopes  
 
-💻 ** Full Stack Engineer | Front-end Lover **  
+💻 **Full Stack Engineer | Front-end Lover**  
 ⚡ Transforming ideas into **beautiful and responsive web experiences**.  
 
 ---
