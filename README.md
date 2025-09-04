@@ -8,7 +8,7 @@
 # Hi, I’m Stephanie Lopes  
 
 💻 **Full Stack Engineer | Front-end Lover**  
-⚡ Transforming ideas into **beautiful and responsive web experiences**.  
+Transforming ideas into **beautiful and responsive web experiences**.  
 
 ---
 
@@ -94,8 +94,6 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:61DAFB,100:0A66C2&height=140&section=footer"/>
 </p>
-
-✨ Always eager to collaborate on projects that combine **technology, creativity, and global connections**.
 
 
 <!---
