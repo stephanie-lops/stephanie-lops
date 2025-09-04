@@ -17,7 +17,7 @@
 🌍 Brazil | Open to remote opportunities  
 🗣️ English (C2) · Portuguese (Native) · Japanese (N5)  
 💡 Interests: Web Development, Photography, Travel, Visual Design  
-😄 Pronouns: She/Her
+✍🏼 Pronouns: She/Her
 </p>
 
 ---
