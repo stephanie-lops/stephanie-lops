@@ -25,27 +25,38 @@ Transforming ideas into **smart, beautiful and responsive products**.
 
 ## 🚀 Skills & Tools  
 
-### 🖥️ Frontend
-- <a href="#"><img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=20232A&labelColor=61DAFB"/></a>
-- <a href="#"><img src="https://img.shields.io/badge/HTML5-FF5733?style=for-the-badge&logo=html5&logoColor=ffffff&labelColor=FF5733"/></a>
-- <a href="#"><img src="https://img.shields.io/badge/CSS3-33C3FF?style=for-the-badge&logo=css3&logoColor=ffffff&labelColor=33C3FF"/></a>
-- <a href="#"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000&labelColor=F7DF1E"/></a>
+<table align="center" width="100%" style="border-collapse: collapse; border: none; text-align: center;">
+  <tr>
+    <th width="33%" style="border: none;">🖥️ Frontend</th>
+    <th width="33%" style="border: none;">⚙️ Backend</th>
+    <th width="33%" style="border: none;">🛠️ Tools & Others</th>
+  </tr>
+  <tr>
+    <td width="33%" style="border: none; vertical-align: top;">
+      <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=20232A&labelColor=61DAFB"/><br>
+      <img src="https://img.shields.io/badge/HTML5-FF5733?style=for-the-badge&logo=html5&logoColor=ffffff&labelColor=FF5733"/><br>
+      <img src="https://img.shields.io/badge/CSS3-33C3FF?style=for-the-badge&logo=css3&logoColor=ffffff&labelColor=33C3FF"/><br>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000&labelColor=F7DF1E"/>
+    </td>
+    <td width="33%" style="border: none; vertical-align: top;">
+      <img src="https://img.shields.io/badge/Python-306998?style=for-the-badge&logo=python&logoColor=ffffff&labelColor=4B8BBE"/><br>
+      <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=ffffff&labelColor=333333"/><br>
+      <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=ffffff&labelColor=092E20"/><br>
+      <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=ffffff&labelColor=68217A"/><br>
+      <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=ffffff&labelColor=512BD4"/>
+    </td>
+    <td width="33%" style="border: none; vertical-align: top;">
+      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=ffffff&labelColor=F05032"/><br>
+      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=333333"/><br>
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=ffffff&labelColor=2496ED"/><br>
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=ffffff&labelColor=4479A1"/><br>
+    </td>
+  </tr>
+</table>
 
-### ⚙️ Backend
-- <a href="#"><img src="https://img.shields.io/badge/Python-306998?style=for-the-badge&logo=python&logoColor=ffffff&labelColor=4B8BBE"/></a>
-- <a href="#"><img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=ffffff&labelColor=333333"/></a>
-- <a href="#"><img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=ffffff&labelColor=092E20"/></a>
-- <a href="#"><img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=ffffff&labelColor=68217A"/></a>
-- <a href="#"><img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=ffffff&labelColor=512BD4"/></a>
 
 
 
-### 🛠️ Tools & Others
-- <a href="#"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=ffffff&labelColor=F05032"/></a>
-- <a href="#"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=333333"/></a>
-- <a href="#"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=ffffff&labelColor=2496ED"/></a>
-- <a href="#"><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=ffffff&labelColor=4479A1"/></a>
-- <a href="#"><img src="https://img.shields.io/badge/Agile-0288D1?style=for-the-badge&logo=atlassian&logoColor=ffffff&labelColor=0288D1"/></a>
 
 ---
 
