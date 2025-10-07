@@ -8,7 +8,7 @@
 
 # Hi, I’m Stephanie! 
 
-💻 **Full Stack Engineer**  
+💻 **Software Engineer**  
 Transforming ideas into **smart and responsive products**.  
 
 ---
