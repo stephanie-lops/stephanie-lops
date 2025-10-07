@@ -97,10 +97,11 @@ Transforming ideas into **smart and responsive products**.
 <p align="center">
   <a href="mailto:stephanielopees@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=ffffff&labelColor=D14836"/></a>
-  <a href="https://www.linkedin.com/in/stephanie-lops">
+  <a href="https://www.linkedin.com/in/stephanie-lopes">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=ffffff&labelColor=0A66C2"/></a>
 
 </p>
+
 
 ---
 
