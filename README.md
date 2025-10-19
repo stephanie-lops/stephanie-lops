@@ -13,7 +13,7 @@ Transforming ideas into **smart and responsive products**.
 
 ---
 
-## ✨✨ About Me ✨✨
+## ✨ About Me ✨
 
 - 🌍 Brazil | Open to work
 - 🗣️ English (C2) · Portuguese (Native) · Japanese (N5)  
@@ -23,7 +23,7 @@ Transforming ideas into **smart and responsive products**.
 
 ---
 
-## ✨✨ Skills & Tools  ✨✨
+## ✨ Skills & Tools  ✨
 
 <table align="center" width="100%" style="border-collapse: collapse; border: none; text-align: center;">
   <tr>
@@ -59,18 +59,20 @@ Transforming ideas into **smart and responsive products**.
 
 
 ---
-## ✨✨ Featured Projects ✨✨
+## ✨ Featured Projects ✨
 <p align="center">
   <a href="https://github.com/stephanie-lops/stephanie_portfolio_Interface" target="_blank">
-    <img src="https://img.shields.io/badge/📸 PhotographyPortfolio-React/Flask?style=for-the-badge&logo=react&logoColor=ffffff&labelColor=61DBFB"/>
+    <img src="https://img.shields.io/badge/📸%20PhotographyPortfolio-React/Flask?style=for-the-badge&logo=react&logoColor=ffffff&labelColor=61DBFB&color=24292E"/>
   </a> &nbsp;&nbsp;
   <a href="https://github.com/stephanie-lops/trilha-css-desafio-03-discord-responsivo" target="_blank">
-    <img src="https://img.shields.io/badge/🤳 DiscordResponsivo-Fullstack?style=for-the-badge&logo=html5&logoColor=ffffff&labelColor=FF6F61"/>
+    <img src="https://img.shields.io/badge/🤳%20DiscordResponsivo-Fullstack?style=for-the-badge&logo=html5&logoColor=ffffff&labelColor=FF6F61&color=24292E"/>
   </a> &nbsp;&nbsp;
   <a href="https://github.com/stephanie-lops/trilha-css-desafio-02-youtube-page" target="_blank">
-    <img src="https://img.shields.io/badge/▶️ Youtube-Page?style=for-the-badge&logo=python&logoColor=ffffff&labelColor=306998"/>
+    <img src="https://img.shields.io/badge/▶️%20Youtube-Page?style=for-the-badge&logo=python&logoColor=ffffff&labelColor=306998&color=24292E"/>
   </a>
 </p>
+
+
 
 ---
 
@@ -92,7 +94,7 @@ Transforming ideas into **smart and responsive products**.
 
 ---
 
-## ✨✨ Get in Touch ✨✨
+## ✨ Get in Touch ✨
 <p align="center">
   <a href="mailto:stephanielopees@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=ffffff&labelColor=D14836"/></a>
