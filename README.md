@@ -13,9 +13,9 @@ Transforming ideas into **smart and responsive products**.
 
 ---
 
-## ✨ About Me  
+## ✨✨ About Me ✨✨
 
-- 🌍 Brazil | Open to remote work
+- 🌍 Brazil | Open to work
 - 🗣️ English (C2) · Portuguese (Native) · Japanese (N5)  
 - 💡 Interests: Web Development, Photography, Travel, Visual Design  
 - ✍🏼 Pronouns: She/Her  
@@ -23,7 +23,7 @@ Transforming ideas into **smart and responsive products**.
 
 ---
 
-## 🚀 Skills & Tools  
+## ✨✨ Skills & Tools  ✨✨
 
 <table align="center" width="100%" style="border-collapse: collapse; border: none; text-align: center;">
   <tr>
@@ -60,7 +60,7 @@ Transforming ideas into **smart and responsive products**.
 
 ---
 
-## 🌟 Featured Projects
+## ✨✨ Featured Projects ✨✨
 <p align="center">
   <a href="https://github.com/stephanie-lops/stephanie_portfolio_Interface" target="_blank">
     <img src="https://img.shields.io/badge/📸 PhotographyPortfolio-React/Flask?style=for-the-badge&logo=vercel&logoColor=ffffff&labelColor=61C3FF"/>
@@ -75,7 +75,7 @@ Transforming ideas into **smart and responsive products**.
 
 ---
 
-## 📊 GitHub Stats 
+## ✨✨ GitHub Stats ✨✨
 <p align="center">
   <a href="#"><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stephanie-lops&layout=compact&langs_count=8&theme=radical"/></a>
   <a href="#"><img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=stephanie-lops&theme=radical" alt="GitHub Streak"/></a>
@@ -93,7 +93,7 @@ Transforming ideas into **smart and responsive products**.
 
 ---
 
-## 📫 Get in Touch  
+## ✨✨ Get in Touch ✨✨
 <p align="center">
   <a href="mailto:stephanielopees@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=ffffff&labelColor=D14836"/></a>
@@ -129,4 +129,5 @@ You can click the Preview link to take a look at your changes.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF4088?style=for-the-badge&logo=vercel&logoColor=white)](#)  
 💞️ 
+🌟🚀📫📊 
 --->
