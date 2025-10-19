@@ -76,11 +76,12 @@ Transforming ideas into **smart and responsive products**.
 
 ---
 
-## ✨✨ GitHub Stats ✨✨
+## ✨ GitHub Stats ✨
 <p align="center">
   <a href="#"><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stephanie-lops&layout=compact&langs_count=8&theme=radical"/></a>
-  <a href="#"><img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=stephanie-lops&theme=radical" alt="GitHub Streak"/></a>
+  <a href="#"><img height="180em" src="https://streak-stats.demolab.com?user=stephanie-lops&theme=radical" alt="GitHub Streak"/></a>
 </p>
+
 <!-- 
 <p align="center">
   <a href="#"><img height="160em" src="https://github-readme-stats.vercel.app/api?username=stephanie-lops&show_icons=true&theme=radical&count_private=true&include_all_commits=true"/></a>
