@@ -59,14 +59,13 @@ Transforming ideas into **smart and responsive products**.
 
 
 ---
-
 ## ✨✨ Featured Projects ✨✨
 <p align="center">
   <a href="https://github.com/stephanie-lops/stephanie_portfolio_Interface" target="_blank">
-    <img src="https://img.shields.io/badge/📸 PhotographyPortfolio-React/Flask?style=for-the-badge&logo=vercel&logoColor=ffffff&labelColor=61C3FF"/>
+    <img src="https://img.shields.io/badge/📸 PhotographyPortfolio-React/Flask?style=for-the-badge&logo=react&logoColor=ffffff&labelColor=61DBFB"/>
   </a> &nbsp;&nbsp;
   <a href="https://github.com/stephanie-lops/trilha-css-desafio-03-discord-responsivo" target="_blank">
-    <img src="https://img.shields.io/badge/🤳 DiscordResponsivo-Fullstack?style=for-the-badge&logo=react&logoColor=ffffff&labelColor=FF6F61"/>
+    <img src="https://img.shields.io/badge/🤳 DiscordResponsivo-Fullstack?style=for-the-badge&logo=html5&logoColor=ffffff&labelColor=FF6F61"/>
   </a> &nbsp;&nbsp;
   <a href="https://github.com/stephanie-lops/trilha-css-desafio-02-youtube-page" target="_blank">
     <img src="https://img.shields.io/badge/▶️ Youtube-Page?style=for-the-badge&logo=python&logoColor=ffffff&labelColor=306998"/>
