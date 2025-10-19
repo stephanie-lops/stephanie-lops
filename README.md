@@ -14,7 +14,7 @@ Transforming ideas into **smart and responsive products**.
 
 ---
 
-## ✨ About Me ✨
+## ✨ About Me
 ```yaml
 # About Me - Stephanie Lopes
 
@@ -41,7 +41,7 @@ pronouns: She/Her
 
 ---
 
-## ✨ Skills & Tools  ✨
+## ✨ Skills & Tools 
 
 <table align="center" width="100%" style="border-collapse: collapse; border: none; text-align: center;">
   <tr>
@@ -72,12 +72,8 @@ pronouns: She/Her
   </tr>
 </table>
 
-
-
-
-
 ---
-## ✨ Featured Projects ✨
+## ✨ Featured Projects 
 <p align="center">
   <a href="https://github.com/stephanie-lops/stephanie_portfolio_Interface" target="_blank">
     <img src="https://img.shields.io/badge/📸%20PhotographyPortfolio-React/Flask?style=for-the-badge&logo=react&logoColor=ffffff&labelColor=61DBFB&color=24292E"/>
@@ -90,30 +86,17 @@ pronouns: She/Her
   </a>
 </p>
 
-
-
 ---
 
-## ✨ GitHub Stats ✨
+## ✨ GitHub Stats 
 <p align="center">
   <a href="#"><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stephanie-lops&layout=compact&langs_count=8&theme=radical"/></a>
   <a href="#"><img height="180em" src="https://streak-stats.demolab.com?user=stephanie-lops&theme=radical" alt="GitHub Streak"/></a>
 </p>
 
-<!-- 
-<p align="center">
-  <a href="#"><img height="160em" src="https://github-readme-stats.vercel.app/api?username=stephanie-lops&show_icons=true&theme=radical&count_private=true&include_all_commits=true"/></a>
-  <a href="#"><img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stephanie-lops&layout=compact&langs_count=8&theme=radical"/></a>
-</p>
-<!-- 
-<p align="center">
-  <a href="#"><img src="https://github-readme-streak-stats.herokuapp.com/?user=stephanie-lops&theme=radical" alt="GitHub Streak"/></a>
-</p>
--->
-
 ---
 
-## ✨ Get in Touch ✨
+## ✨ Get in Touch 
 <p align="center">
   <a href="mailto:stephanielopees@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=ffffff&labelColor=D14836"/></a>
@@ -126,7 +109,6 @@ pronouns: She/Her
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=stephanie-lops&color=ff69b4&style=for-the-badge" alt="Profile views" />
 </p>
-
 
 
 
