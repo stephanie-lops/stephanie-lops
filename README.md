@@ -8,20 +8,35 @@
 
 # Hi, I’m Stephanie! 
 
+
 💻 **Software Engineer**  
 Transforming ideas into **smart and responsive products**.  
-
-
-
 
 ---
 
 ## ✨ About Me ✨
+```yaml
+# About Me - Stephanie Lopes
 
-- 🌍 Brazil | Open to work
-- 🗣️ English (C2) · Portuguese (Native) · Japanese (N5)  
-- 💡 Interests: Web Development, Photography, Travel, Visual Design  
-- ✍🏼 Pronouns: She/Her  
+name: Stephanie Lopes
+located_in: Brazil
+open_to_work: true
+
+languages:
+  - English (C2)
+  - Portuguese (Native)
+  - Japanese (N5)
+
+interests:
+  - Web Development
+  - Photography
+  - Travel
+  - Visual Design
+
+pronouns: She/Her
+
+
+```
 
 
 ---
@@ -111,6 +126,8 @@ Transforming ideas into **smart and responsive products**.
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=stephanie-lops&color=ff69b4&style=for-the-badge" alt="Profile views" />
 </p>
+
+
 
 
 <!-- Footer Banner 
