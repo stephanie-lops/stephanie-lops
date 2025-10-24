@@ -8,7 +8,6 @@
 
 # Hi, I’m Stephanie! 
 
-
 💻 **Software Engineer**  
 Transforming ideas into **smart and responsive products**.  
 
