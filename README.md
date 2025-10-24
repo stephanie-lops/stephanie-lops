@@ -26,6 +26,9 @@ languages:
   - Portuguese (Native)
   - Japanese (N5)
 
+area:
+  - Full stack development with focus on front end
+
 interests:
   - Web Development
   - Photography
