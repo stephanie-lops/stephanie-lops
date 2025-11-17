@@ -114,12 +114,6 @@ pronouns: She/Her
 
 
 
-<!-- Footer Banner 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:61DAFB,100:0A66C2&height=140&section=footer"/>
-</p>
--->
-
 <!---
 
   <a href="#">
